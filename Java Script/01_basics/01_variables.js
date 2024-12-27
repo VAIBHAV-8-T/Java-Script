@@ -9,6 +9,7 @@ accountCity = "jaipur"
 accountCity = "patna"
 console.log(accountId);
 console.table([accountId,accountEmail,accountPassword,accountCity])
+// Process.stdout.write("chai")
 /*
 prefer not to use var
 because of issue in block scope and functional scope
